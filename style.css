@@ -1,0 +1,25 @@
+.main-title{
+   text-align: center; 
+   margin-top: -15vw;
+}
+body{
+    background-color: #a4c1df;
+}
+
+@media (max-width:600px) { 
+    #mobile-card{
+        margin-bottom: 30px;
+        margin-left: 90px;
+    }
+}
+.carousel-caption h1{
+    color: red;
+    background-color: #a4c1df;
+}
+
+
+.card-body{
+    text-align: center;
+}
+
+
